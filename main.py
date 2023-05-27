@@ -8,7 +8,7 @@ from discord import app_commands
 import stats as discord_stats
 import ai_commands
 
-TOKEN = "MTExMTYwNzE1NDk0MDU5NjI3NQ.GtII-p.387yPwJrSn7bvUPAUMhy9gHrbwCDVgGrSBnPMk"
+TOKEN = "TOKEN_HERE"
 GUILD_ID = 918826505876959242
 
 
